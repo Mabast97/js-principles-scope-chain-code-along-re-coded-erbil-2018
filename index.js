@@ -19,5 +19,7 @@ function changeLeastFavoriteCustomer(){
 }
 
 
-function 
+function attemptTwoFavoriteCustomers(){
+  const 
+}
 
